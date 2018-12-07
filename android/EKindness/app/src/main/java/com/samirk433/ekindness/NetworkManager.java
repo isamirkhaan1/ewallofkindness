@@ -1,4 +1,4 @@
-package ekindness.samirk433.com.ekindness;
+package com.samirk433.ekindness;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

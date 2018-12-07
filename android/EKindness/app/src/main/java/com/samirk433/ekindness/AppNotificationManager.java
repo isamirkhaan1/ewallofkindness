@@ -1,4 +1,4 @@
-package ekindness.samirk433.com.ekindness;
+package com.samirk433.ekindness;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

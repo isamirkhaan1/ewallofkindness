@@ -42,7 +42,9 @@
             android:value="@string/default_notification_channel_id" />
 
         <activity android:name=".PhoneAuthActivity" />
-        <activity android:name=".FirebaseMainAuthActivity"></activity>
+        <activity android:name=".FirebaseMainAuthActivity" />
+        <activity android:name=".DonarOneActivity" />
+        <activity android:name=".DonarSecondActivity"></activity>
     </application>
 
 </manifest>

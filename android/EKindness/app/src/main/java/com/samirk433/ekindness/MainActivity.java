@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent intent = new Intent(MainActivity.this, PhoneAuthActivity.class);
+                Intent intent = new Intent(MainActivity.this, DonarSecondActivity.class);
                 startActivity(intent);
 
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
